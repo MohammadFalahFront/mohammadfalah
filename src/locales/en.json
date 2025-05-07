@@ -1,0 +1,21 @@
+{
+  "home": "Home",
+  "about": "About",
+  "projects": "Projects",
+  "skills": "Skills",
+  "Askills": "Technical Skills",
+  "footer": "Mohammad Awad Falah. All rights reserved.",
+  "homePage": {
+    "MOHAMMAD_AWAD_FALAH_DEVELOPER": "MOHAMMAD AWAD FALAH DEVELOPER",
+    "aboutme": "I'm Mohammad Awad Falah, a passionate Frontend Developer who loves crafting creative and high-performance web experiences. I specialize in modern technologies like Vue.js and always aim to deliver clean, user-friendly designs."
+  },
+  "skillsPage": {
+    "Mastery_level": "Mastery level",
+    "vue": "A modern JavaScript framework. Experienced in developing complex apps with Vue 3 and the Composition API.",
+    "html-css": "Fundamental web building languages. Experience with HTML5 and CSS3 with a focus on responsive design and accessibility.",
+    "javaScript": "Core web programming language. Experience with ES6+, Promise, Async/Await, and working with APIs.",
+    "tailwind": "A top-notch CSS framework. Experience using Tailwind to build fast, maintainable user interfaces.",
+    "typeScript": "JavaScript with data type syntax. Experience using TypeScript with Vue.js to build more robust and maintainable applications.",
+    "primeVue": "A rich UI library for Vue.js components. Experience using PrimeVue components to build professional user interfaces."
+  }
+}
