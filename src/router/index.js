@@ -1,4 +1,4 @@
-import { createRouter, createWebHistory } from 'vue-router'
+import { createRouter, createWebHashHistory } from 'vue-router'
 import Home from '../pages/home.vue'
 import Skills from '../pages/skills.vue'
 
@@ -10,13 +10,13 @@ const routes = [
   },
   {
     path: '/skills',
-    name: 'skills',
+    name: 'Skills',
     component: Skills
   }
 ]
 
 const router = createRouter({
-  history: createWebHistory(import.meta.env.BASE_URL),
+  history: createWebHashHistory(), // ✅ استخدم hash mode
   routes
 })
 
